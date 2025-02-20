@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package minhasegundaed;
+package minhaprimeiraed;
 
 /**
  *
  * @author FATEC ZONA LESTE
  */
-public class MinhaSegundaED {
+public class MinhaPrimeiraED {
     private Object[] objetos = new Object[10];
     public int totalDeObjetos = 0;
     
